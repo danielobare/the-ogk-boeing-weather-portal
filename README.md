@@ -23,9 +23,11 @@ npm install
 npm start
 
 
-Initial stages of project coding were initialized using the following steps:
+## Initial stages of project coding were initialized using the following steps:
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
