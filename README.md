@@ -1,6 +1,6 @@
 ## The-ogk-boeing-weather-portal
 
-Written by Daniel Obare N
+### Written by Daniel Obare N
 
 Contact me at dnobare@gmail.com
 
