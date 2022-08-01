@@ -2,6 +2,8 @@ The-ogk-boeing-weather-portal
 
 Written by Daniel Obare N
 
+Contact me at dnobare@gmail.com
+
 Essentially, click on the link: https://the-ogk-boeing.herokuapp.com/ and the webapp will load onto a new tab
 
 Contains code that displays weather from an external API, renders data from json files using GET and attempts to POST to json & render to page
