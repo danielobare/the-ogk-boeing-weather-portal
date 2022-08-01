@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Essentially, click on the link: https://the-ogk-boeing.herokuapp.com/ and the webapp will load onto a new tab
+Essentially, click on the link: https://the-ogk-boeing.herokuapp.com/ and the webapp will load onto a new tab
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
