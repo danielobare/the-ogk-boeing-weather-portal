@@ -13,12 +13,14 @@ This project uses The General Public License.
 
 
 
-## To run the code, run
+## To run the code, run:
 
 npm install
 
 
-Then run npm start
+## Then run:
+
+npm start
 
 
 Initial stages of project coding were initialized using the following steps:
