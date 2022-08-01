@@ -13,7 +13,9 @@ This project uses The General Public License.
 
 
 
-## To run the code, run npm install
+## To run the code, run
+
+npm install
 
 
 Then run npm start
