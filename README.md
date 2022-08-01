@@ -9,7 +9,7 @@ Essentially, click on the link: https://the-ogk-boeing.herokuapp.com/ and the we
 Contains code that displays weather from an external API, renders data from json files using GET and attempts to POST to json & render to page.
 
 
-This project uses The GPL license.
+This project uses The General Public L license.
 
 
 
