@@ -10,6 +10,8 @@ Contains code that displays weather from an external API, renders data from json
 
 This project uses The GPL license.
 
+To run the code, run npm install
+
 Initial stages of project coding were initialized using the following steps:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
