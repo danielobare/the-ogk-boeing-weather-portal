@@ -1,0 +1,56 @@
+.description {
+  cursor: inherit;
+  margin-right: 15px;
+  text-align: right;
+  flex: 1 1;
+  
+}
+
+.daily-item {
+  background-color:gainsboro;
+  height: 20px;
+  margin: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  padding: 5px 20px;
+  
+}
+.daily-details-grid {
+  grid-column-gap: 15px;
+  display: grid;
+  flex: 1 1;
+  grid-template-columns: auto auto;
+  padding: 5px 15px;
+  row-gap: 0;
+  -webkit-column-gap: 15px;
+  column-gap: 15px;
+  
+  
+}
+
+.weather-days {
+  align-items: center;
+  height: 30px;
+  justify-content: space-between;
+  display: flex;
+  
+}
+
+.weather-days label:first-child {
+  color: #757575f5;
+}
+
+.title {
+  font-weight: 300;
+  font-size: 14px;
+}
+
+
+.daily-item .day {
+  flex: 1 1;
+  cursor: inherit;
+  
+}
+

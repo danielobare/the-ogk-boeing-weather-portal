@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #d5d4d4;
+}
+
+code {
+  font-family: monospace;
+  font-style: italic;
+}
+
+.poems-container {
+  max-width: 30em;
+  margin: auto;
+  background-color: #d5d4d4;
+}
+
+.poems-container > div {
+  padding-bottom: 1em;
+  min-width: 40em;
+  background-color: #d5d4d4;
+}
+
+.poems-container > div > button {
+  min-width: 6em;
+}
+
+form.new-poem-form {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5em;
+  
+}
+
+form.new-poem-form > input,
+form.new-poem-form > textarea {
+  border-radius: 5px;
+  font-size: 14px;
+  margin-bottom: 0.5em;
+  font-family: monospace;
+  font-style: italic;
+  background-color: #d5d4d4;
+}
+
+input[type="submit"],
+button {
+  padding: 0.5em;
+  cursor: pointer;
+  font-size: 14px;
+  border-color: #d5d4d4;
+  
+}
+.button2{
+  background-color: #d5d4d4;
+}
