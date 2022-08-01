@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+#The-ogk-boeing-weather-portal
+
+Written by Daniel Obare N
 
 Essentially, click on the link: https://the-ogk-boeing.herokuapp.com/ and the webapp will load onto a new tab
+
+Contains code that displays weather from an external API, renders data from json files using GET and attempts to POST to json & render to page
+
+
+Initial stages of project coding were initialized by the following steps:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
